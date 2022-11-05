@@ -1,0 +1,48 @@
+
+ h1 {
+  color: rgb(212, 58, 58); 
+  font-size: 70px; 
+  font-family: 'Comforter Brush', cursive;
+} 
+
+ h2 {  
+   color: rgb(194, 149, 149);
+   font-size: 60px;
+ }  
+h3 {
+    color: blue;
+}
+ body{
+background-color: rgb(243, 201, 34);
+font-family: 'Comforter Brush', cursive;
+}
+
+tr,table,td{
+
+border: 6px solid rgb(243, 251, 23) ;
+
+}
+  
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
